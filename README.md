@@ -1,6 +1,14 @@
-# Deterministic Universe — Algorithm Lab
+# Deterministic Universe v2 — Algorithm Lab
 
 A native, offline Android educational game that visualizes and benchmarks ten deterministic graph algorithms. The same graph, stable ordering, fixed seed and explicit tie-breaking reproduce the same ordered result.
+
+## Version 2 highlights
+
+- Tap-selectable start and destination nodes
+- Pinch-to-zoom and drag-to-pan visualization
+- Result explanations with complexity and cost
+- Nine-column controlled benchmark table
+- Technical and functional guide for all ten algorithms
 
 ## Included engines
 
